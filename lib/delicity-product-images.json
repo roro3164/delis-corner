@@ -1,0 +1,278 @@
+{
+  "Formule Sandwich + Potatoes": {
+    "image": null,
+    "price": "12,00 €"
+  },
+  "Pulled Pork": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/y7lCGhHKTXTJ5umhHmU-JNKyNW_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "13,00 €"
+  },
+  "César": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/KH0S7E-DoLTxGdAJ58tGWup1_Z_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "13,00 €"
+  },
+  "César Végé": {
+    "image": "/images/galerie/sandwich-cesar-vege.png",
+    "price": "15,00 €"
+  },
+  "Saumon": {
+    "image": "/images/galerie/sandwich-saumon.png",
+    "price": "14,00 €"
+  },
+  "Pastrami": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/OT6Srq6SWrWxLpHAImJz4Ka6C__base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "15,00 €"
+  },
+  "Croque Truffe": {
+    "image": "/images/galerie/sandwich-croque-truffe.png",
+    "price": "16,00 €"
+  },
+  "Hot Dog": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/cCI9wKMr5SYJJ8PBghjanBaadZ_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "9,00 €"
+  },
+  "Tuna": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/D-I7CEjpnT5GWj04O6Nw8OlGZj_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "9,00 €"
+  },
+  "Poulet Mayo": {
+    "image": "/images/galerie/sandwich-poulet-mayo.png",
+    "price": "10,00 €"
+  },
+  "Grilled Cheese": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/bZBn3iwEvXafihOz4tdmZQT5-c_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "10,00 €"
+  },
+  "Toast Végé": {
+    "image": "/images/galerie/toast-vege.png",
+    "price": "12,00 €"
+  },
+  "Salade César": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33374_1769768570435.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "16,00 €"
+  },
+  "Salade Végé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33375_1769768570645.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "16,00 €"
+  },
+  "Potatoes": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/JHsWqYJa1CkAN1K2prh7MTNpQt_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Coleslaw": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/Q3NNEzMh5eIoFHYU2PcefPKy8b_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Légumes Croquants": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33377_1769768572158.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Tenders de Poulet": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/melNT7wX3zOrUrp4CMTn676f7J_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "9,00 €"
+  },
+  "Brioche Perdue Choco": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/RW3olGosPi99W527qeY2rlqxQq_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,50 €"
+  },
+  "Brioche Perdue Caramel Beurre Salé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/vKDZp4yDuwaj3igY18URuuNh2x_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,50 €"
+  },
+  "Coca Cola": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/21-LZT_kC3G3okMaqcXmJNecJX_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "3,00 €"
+  },
+  "Coca Cola zéro": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/iBawlK-O7WtGK2u_YO06np3EiA_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Orangina": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/cKo_0XUNX9x2_Z0JsoZiGuVNh2_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "3,00 €"
+  },
+  "Cristaline": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/C7msZgVMZyMn20gIJ8uwKGhxPP_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "2,00 €"
+  },
+  "Perrier": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/lLJRI7Qsjxri-5zYJtPBWJCFZj_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "3,00 €"
+  },
+  "Ginger beer": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/ZIRHcmrG7_CYmUO7iDXDhuBqI3_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Limonade Pschitt": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/La7pVlKXsVmlKQXV073RyOFjXl_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Cidre Poire 33cl 3,5% ALC/VOL": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/g33VLuVqUnpXZogHY3TOMasUCq_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Cidre Classique Brut 33cl  5,5% ALC/VOL": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/rQ9CPcXxS5uZYpqoDips-M-fH1_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Cidre Yuzu & Basilic 33cl  5% ALC/VOL": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/9OYS77_slNhfLLHByNXa50s0uv_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Bière FADA blanche": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/products/B2VM2-ipeMnl1EzgezIbdczCcf_base.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Espresso": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33336_1769768553442.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "2,00 €"
+  },
+  "Double Espresso / Doppio": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33337_1769768553561.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "3,00 €"
+  },
+  "Americano": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33338_1769768554926.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "2,00 €"
+  },
+  "Cortado / Noisette": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33339_1769768556238.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "2,20 €"
+  },
+  "Ristretto": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33340_1769768555001.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "2,00 €"
+  },
+  "Cappuccino": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33341_1769768554397.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Hot Chocolate": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33342_1769768553713.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Espresso Tonic": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33343_1769768554034.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Espresso Martini": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33344_1769768556575.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "9,00 €"
+  },
+  "Thé Earl Grey": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33345_1769768556160.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33347_1769768555451.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Spéculoos Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33349_1769768555297.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Vanilla Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33351_1769768554941.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Cinnamon Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33353_1769768554842.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Honey Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33355_1769768564073.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Pumpkin Spice Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33357_1769768564090.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Flat White": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33359_1769768564480.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,00 €"
+  },
+  "Mocha": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33361_1769768563081.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Matcha Americano": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33346_1769768556433.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33348_1769768554200.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,50 €"
+  },
+  "Spéculoos Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33350_1769768555200.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Cinnamon Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33352_1769768554489.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Vanilla Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33354_1769768553821.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Honey Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33356_1769768561587.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Pumpkin Spice Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33358_1769768562171.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Dirty Matcha Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33360_1769768562192.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Matcha Tonic": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33362_1769768562985.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "7,00 €"
+  },
+  "Matcha Martini": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33363_1769768563166.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "9,00 €"
+  },
+  "Chai Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33365_1769768563731.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,50 €"
+  },
+  "Vanilla Chai Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33367_1769768565467.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,50 €"
+  },
+  "Dirty Chai Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33369_1769768564079.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "7,00 €"
+  },
+  "Matcha Chai Latte": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33371_1769768564220.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "7,00 €"
+  },
+  "Café Frappé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33364_1769768562971.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Thé Frappé / Glacé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33366_1769768563835.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "4,50 €"
+  },
+  "Latte Frappé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33368_1769768563438.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  },
+  "Matcha Frappé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33370_1769768565168.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Chai Latte Frappé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33372_1769768565100.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "6,00 €"
+  },
+  "Chocolat Frappé": {
+    "image": "https://delicity.b-cdn.net/public/merchants/delis-corner/33373_1769768564692.jpeg?width=900&aspect_ratio=1:1?width=900&aspect_ratio=4:3&format=webp",
+    "price": "5,00 €"
+  }
+}

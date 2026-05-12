@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@source "../**/*.{js,ts,jsx,tsx}";
+
+:root {
+  --deli-cream: #f5f5f0;
+  --deli-cream-deep: #ebe8df;
+  --deli-green: #1b5840;
+  --deli-green-dark: #134832;
+  --deli-ink: #1a1f1c;
+  --deli-muted: #4a5650;
+  /* Fond proche du blanc cassé (blocs carte / ambiance) */
+  --deli-flyer-paper: #f2f5ee;
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: light;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background: var(--deli-cream);
+  color: var(--deli-ink);
+  min-height: 100vh;
+}
+
+/* Léger grain papier */
+.deli-paper {
+  background-color: var(--deli-cream);
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+}
+
+/* Galerie colonnes (master ColumnsGallery) : scroll vertical en boucle. */
+@keyframes deli-col-scroll-up {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+@keyframes deli-col-scroll-down {
+  0% {
+    transform: translateY(-50%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes deli-col-up-once {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+@keyframes deli-col-down-once {
+  0% {
+    transform: translateY(-50%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.deli-col-animate-up {
+  animation: deli-col-scroll-up linear infinite;
+  will-change: transform;
+}
+
+.deli-col-animate-down {
+  animation: deli-col-scroll-down linear infinite;
+  will-change: transform;
+}
+
+.deli-col-up-once {
+  animation: deli-col-up-once linear 1 forwards;
+}
+
+.deli-col-down-once {
+  animation: deli-col-down-once linear 1 forwards;
+}
+
+.deli-col-static {
+  animation: none;
+}
+
+.deli-col-track.deli-col-paused {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .deli-col-animate-up,
+  .deli-col-animate-down,
+  .deli-col-up-once,
+  .deli-col-down-once {
+    animation: none;
+    transform: none;
+  }
+}
