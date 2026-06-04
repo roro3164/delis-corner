@@ -622,9 +622,29 @@ export default function DelisCornerPage() {
                   <a className="transition hover:text-white" href="#venez">
                     Le lieu
                   </a>
+                  <a className="transition hover:text-white" href="/mentions-legales">
+                    Mentions légales
+                  </a>
                 </nav>
               </div>
               <p className="text-sm text-white/70 sm:pt-1">© {new Date().getFullYear()} Deli&apos;s Corner</p>
+            </div>
+            <div className="mx-auto mt-8 flex max-w-6xl flex-col items-center justify-center gap-2 border-t border-white/15 pt-6 text-center text-sm text-white/70">
+              <span className="block">Réalisation —</span>
+              <a
+                href="https://romaindesigncode.fr"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex shrink-0 items-center justify-center opacity-95 transition-opacity hover:opacity-100"
+              >
+                <Image
+                  src="/logo-romain-design-code.webp"
+                  alt="Romain Design Code"
+                  width={140}
+                  height={41}
+                  className="h-8 w-auto sm:h-9"
+                />
+              </a>
             </div>
           </DelisFooter>
         </div>
