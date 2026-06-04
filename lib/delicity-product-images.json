@@ -12,11 +12,11 @@
     "price": "13,00 €"
   },
   "César Végé": {
-    "image": "/images/galerie/sandwich-cesar-vege.png",
+    "image": "/images/galerie/sandwich-cesar-vege.webp",
     "price": "15,00 €"
   },
   "Saumon": {
-    "image": "/images/galerie/sandwich-saumon.png",
+    "image": "/images/galerie/sandwich-saumon.webp",
     "price": "14,00 €"
   },
   "Pastrami": {
@@ -24,7 +24,7 @@
     "price": "15,00 €"
   },
   "Croque Truffe": {
-    "image": "/images/galerie/sandwich-croque-truffe.png",
+    "image": "/images/galerie/sandwich-croque-truffe.webp",
     "price": "16,00 €"
   },
   "Hot Dog": {
@@ -36,7 +36,7 @@
     "price": "9,00 €"
   },
   "Poulet Mayo": {
-    "image": "/images/galerie/sandwich-poulet-mayo.png",
+    "image": "/images/galerie/sandwich-poulet-mayo.webp",
     "price": "10,00 €"
   },
   "Grilled Cheese": {
@@ -44,7 +44,7 @@
     "price": "10,00 €"
   },
   "Toast Végé": {
-    "image": "/images/galerie/toast-vege.png",
+    "image": "/images/galerie/toast-vege.webp",
     "price": "12,00 €"
   },
   "Salade César": {

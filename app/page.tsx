@@ -190,7 +190,7 @@ export default function DelisCornerPage() {
             <div className="flex items-center justify-between gap-3">
               <a href="#top" className="shrink-0 transition-opacity hover:opacity-90">
                 <Image
-                  src="/logo.png"
+                  src="/logo.webp"
                   alt="Deli&apos;s Corner"
                   width={320}
                   height={96}
@@ -208,7 +208,7 @@ export default function DelisCornerPage() {
           <div className="hidden items-center justify-between gap-4 lg:flex">
             <a href="#top" className="group flex min-w-0 items-center gap-4 leading-none">
               <Image
-                src="/logo.png"
+                src="/logo.webp"
                 alt="Deli&apos;s Corner"
                 width={320}
                 height={96}
@@ -246,7 +246,7 @@ export default function DelisCornerPage() {
           className="relative isolate min-h-[min(88svh,44rem)] overflow-hidden border-b border-[var(--deli-green)]/10"
         >
           <Image
-            src="/images/site/hero-main.png"
+            src="/images/site/hero-main.webp"
             alt="Deli&apos;s Corner — visuel d&apos;accueil"
             fill
             priority
@@ -285,7 +285,7 @@ export default function DelisCornerPage() {
               <DelisStaggerItem slide="right" className="order-1 min-w-0 lg:order-2">
                 <div className="relative aspect-[4/3] overflow-hidden rounded-2xl border border-[var(--deli-green)]/15 bg-stone-200 shadow-[0_12px_40px_-12px_rgba(27,88,64,0.25)]">
                   <Image
-                    src="/images/site/about-main.png"
+                    src="/images/site/about-main.webp"
                     alt="Illustration Deli&apos;s Corner — ambiance du lieu"
                     fill
                     className="object-cover object-center"
@@ -558,7 +558,7 @@ export default function DelisCornerPage() {
             className="relative isolate min-h-[min(70svh,36rem)] scroll-mt-24"
           >
             <Image
-              src="/images/site/footer-banner.png"
+              src="/images/site/footer-banner.webp"
               alt="Devanture et ardoise Deli&apos;s Corner sur le trottoir — cadre de pierre et verdure"
               fill
               className="object-cover object-[center_40%]"
